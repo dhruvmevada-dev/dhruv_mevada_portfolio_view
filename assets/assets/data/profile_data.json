@@ -1,0 +1,259 @@
+{
+  "greeting": "Hey",
+  "heroHeadline": "Building Amazing Flutter Experiences!",
+  "heroSubtitle": "I build Flutter apps and Unity games",
+  "name": "I'm Dhruv Mevada",
+  "title": "Flutter & Unity Developer",
+  "titleHighlight": "Developer",
+  "tagline": "App Developer with one year of hands-on experience in Flutter and Unity technologies. Experienced in collaborating on projects from concept to deployment. Adept at learning new technologies quickly, solving problems and contributing to creative and technical solutions.",
+  "primaryButtonText": "Learn More",
+  "secondaryButtonText": "Contact me",
+  "heroImage": "assets/images/pic.png",
+  "aboutImage": "assets/images/about_illustration.png",
+  "aboutHeading": "About me",
+  "aboutDescription": "I'm an App Developer with a year of hands-on experience building cross-platform mobile apps in Flutter and interactive games in Unity. I've taken projects from concept through to publishing on the Play Store and App Store, and I enjoy picking up new technologies quickly to solve problems in creative ways.",
+  "location": "Ranip, Ahmedabad",
+  "email": "dhruv.mevada007@gmail.com",
+  "phone": "+91 9722562950",
+  "github": "https://github.com/Dhruv-Mevada-007",
+  "linkedin": "https://www.linkedin.com/in/dhruvmevada007",
+  "socials": [
+    { "platform": "email", "url": "mailto:dhruv.mevada007@gmail.com" },
+    { "platform": "phone", "url": "tel:+919722562950" },
+    { "platform": "github", "url": "https://github.com/" },
+    { "platform": "linkedin", "url": "https://linkedin.com/" }
+  ],
+
+  "skillCategories": [
+    {
+      "category": "Technical",
+      "items": [
+        "Flutter & Dart Programming",
+        "API Integration",
+        "Firebase & Google Services",
+        "State Management",
+        "Adaptive UI",
+        "Unity & C# Programming",
+        "2D/3D Game Design",
+        "Game Physics & UI",
+        "Particles & Animations",
+        "Scene Management"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": ["Time Management", "Leadership", "Creativity & Adaptability"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "BattleGround Car",
+      "description": "Adventurous open-world game with different cars and maps, featuring a full player controller and minimap.",
+      "category": "Unity",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Unity", "C#"],
+      "screenshots": []
+    },
+    {
+      "title": "Smart Bunny",
+      "description": "Kids learning game app with interactive UI and animations, packed with mini games that teach numbers and alphabets.",
+      "category": "Unity",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Unity", "C#"],
+      "screenshots": []
+    },
+    {
+      "title": "Pre-built Games Suite",
+      "description": "Managed and shipped pre-built games including Cannon Colors, RotoMath, ColorTile Jump, and Puck Fight.",
+      "category": "Unity",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Unity", "C#"],
+      "screenshots": []
+    },
+    {
+      "title": "RelaXiZ",
+      "description": "An app that says it's ok to be you — a calm space for mental wellness.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    },
+    {
+      "title": "My System",
+      "description": "A system for tracking daily quests and habits.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    },
+    {
+      "title": "My Diary & Your Voice",
+      "description": "A personal app for expressing yourself through writing and voice.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    },
+    {
+      "title": "Knotly & Portfolio App",
+      "description": "An app for building marriage biodata and resumes/portfolios.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    },
+    {
+      "title": "Strangers Stories",
+      "description": "Read or post unheard stories from strangers.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    },
+    {
+      "title": "Unsent Messages",
+      "description": "A personal space to say what's inside — messages you never sent.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    },
+    {
+      "title": "Woman Space",
+      "description": "A place to learn about the menstrual phase and women's wellness.",
+      "category": "Flutter",
+      "githubUrl": "",
+      "link": "",
+      "overview": "",
+      "highlights": [],
+      "techStack": ["Flutter", "Dart"],
+      "screenshots": []
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "Total App Downloads",
+      "description": "Combined downloads across published apps and games.",
+      "metric": "3,000+",
+      "icon": "downloads",
+      "imageUrl": "",
+      "isSpotlight": false
+    },
+    {
+      "title": "Live & Maintained",
+      "description": "Apps published and actively maintained on the Play Store and App Store.",
+      "metric": "",
+      "icon": "stores",
+      "imageUrl": "",
+      "isSpotlight": false
+    },
+    {
+      "title": "Employee of the Month",
+      "description": "Recognized for consistent delivery, code quality, and reliability on the team.",
+      "metric": "",
+      "icon": "award",
+      "imageUrl": "",
+      "isSpotlight": true
+    }
+  ],
+
+
+  "experience": [
+    {
+      "organization": "Yogi Technolabs Private Limited",
+      "role": "Flutter Developer",
+      "duration": "2023 - 2025",
+      "points": [
+        "Developed responsive, cross-platform mobile applications using Flutter, ensuring a seamless experience across iOS and Android devices and published them on the Play Store and App Store.",
+        "Implemented state management and integrated third-party APIs to enhance app functionality.",
+        "Applied object-oriented programming principles to ensure maintainable and scalable code.",
+        "Built and optimized UI components for smooth performance, adhering to design guidelines and focusing on intuitive user experience."
+      ]
+    },
+    {
+      "organization": "Rumbum Software Service Private Limited",
+      "role": "Unity Game Developer",
+      "duration": "2024 - 2025",
+      "points": [
+        "Implemented cost-effective applications, incorporating animations and visual effects.",
+        "Designed intuitive UI/UX tailored for children, ensuring easy navigation and interaction.",
+        "Created attractive kids' games like Kids Campus with lots of fun mini games.",
+        "Took applications from scratch to publishing on the Google Play Store and Apple App Store, with constant updates over time."
+      ]
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Ajay Mistry",
+      "role": "RotoMath",
+      "quote": "A wonderful app for kids learning their Math. The sounds are amazing, the Gameplay learning is delightful.",
+      "avatar": ""
+    },
+    {
+      "name": "Vasant Suthar",
+      "role": "Smart Bunny",
+      "quote": "A genuinely great learning app for kids. It covers letters, animals, and sounds in a way that makes learning feel like play, not work.",
+      "avatar": ""
+    },
+    {
+      "name": "Juhi Mewada",
+      "role": "Parent, Candy ABCD user",
+      "quote": "Great ABCD learning app for my kid — simple, colorful, and easy for a young child to pick up on their own.",
+      "avatar": ""
+    },
+    {
+      "name": "Scary Diaries",
+      "role": "Cannon Colors",
+      "quote": "The game is awesome — smooth gameplay and genuinely fun to come back to.",
+      "avatar": ""
+    },
+    {
+      "name": "Keya Patel",
+      "role": "Player, Puck Fight",
+      "quote": "Amazing! One of those small games that's way more addictive than it has any right to be.",
+      "avatar": ""
+    }
+  ],
+
+  "education": [
+    {
+      "institute": "Vishwakarma Government Engineering College",
+      "degree": "M.Tech (8.44 CGPA)",
+      "duration": "2025 - Pursuing"
+    },
+    {
+      "institute": "Ahmedabad Institute of Technology",
+      "degree": "B.Tech (7.85 CGPA)",
+      "duration": "2019 - 2023"
+    }
+  ]
+}
