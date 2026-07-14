@@ -5,23 +5,23 @@
   "name": "I'm Dhruv Mevada",
   "title": "Flutter & Unity Developer",
   "titleHighlight": "Developer",
-  "tagline": "App Developer with one year of hands-on experience in Flutter and Unity technologies. Experienced in collaborating on projects from concept to deployment. Adept at learning new technologies quickly, solving problems and contributing to creative and technical solutions.",
+  "tagline": "App Developer with 1.5+ years of hands-on experience in Flutter and Unity technologies. Experienced in collaborating on projects from concept to deployment. Adept at learning new technologies quickly, solving problems and contributing to creative and technical solutions.",
   "primaryButtonText": "Learn More",
   "secondaryButtonText": "Contact me",
   "heroImage": "assets/images/pic.png",
   "aboutImage": "assets/images/about_illustration.png",
   "aboutHeading": "About me",
-  "aboutDescription": "I'm an App Developer with a year of hands-on experience building cross-platform mobile apps in Flutter and interactive games in Unity. I've taken projects from concept through to publishing on the Play Store and App Store, and I enjoy picking up new technologies quickly to solve problems in creative ways.",
+  "aboutDescription": "I'm an App Developer with a 1.5+ of hands-on experience building cross-platform mobile apps in Flutter and interactive games in Unity. I've taken projects from concept through to publishing on the Play Store and App Store, and I enjoy picking up new technologies quickly to solve problems in creative ways.",
   "location": "Ranip, Ahmedabad",
-  "email": "dhruv.mevada007@gmail.com",
+  "email": "dhruvmevada.dev@gmail.com",
   "phone": "+91 9722562950",
-  "github": "https://github.com/Dhruv-Mevada-007",
-  "linkedin": "https://www.linkedin.com/in/dhruvmevada007",
+  "github": "https://github.com/dhruvmevada-dev",
+  "linkedin": "https://www.linkedin.com/in/dhruvmevadadev",
   "socials": [
-    { "platform": "email", "url": "mailto:dhruv.mevada007@gmail.com" },
+    { "platform": "email", "url": "mailto:dhruvmevada.dev@gmail.com" },
     { "platform": "phone", "url": "tel:+919722562950" },
-    { "platform": "github", "url": "https://github.com/" },
-    { "platform": "linkedin", "url": "https://linkedin.com/" }
+    { "platform": "github", "url": "https://github.com/dhruvmevada-dev" },
+    { "platform": "linkedin", "url": "https://www.linkedin.com/in/dhruvmevadadev" }
   ],
 
   "skillCategories": [
